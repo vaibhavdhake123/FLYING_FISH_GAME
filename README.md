@@ -10,7 +10,7 @@ FLYING_FISH_GAME is an engaging and addictive Android game built with Java in An
 - Engaging sound effects and background music
 
 ## Screenshots
-![Uploading THE FLYING FISH.png…]()
+![THE FLYING FISH](https://github.com/user-attachments/assets/b06724ed-5757-4726-8e84-605167d9f27a)
 
 ## Getting Started
 
